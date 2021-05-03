@@ -2,7 +2,8 @@
 
 
 ### Árbol de directorios
-yarn```pytests
+```yaml
+pytests
   |
   -- __init__.py
   -- src
@@ -19,7 +20,9 @@ yarn```pytests
       -- functions
               |
               -- __init__.py
-              -- helloworld.py```
+              -- helloworld.py
+
+```
 
 ### Modo
 
