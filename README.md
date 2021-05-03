@@ -24,7 +24,11 @@ pytests
 
 ```
 
-### Modo
+### Ejercicio realizado
 
 Vamos a llamar a la funcion say_hello() que está en el folder functions en el
 modulo helloworld.py desde orale.py
+
+### Cambios en la estructura
+
+Todos los folders y subfolders deben tener un archivo vacío llamado __init__.py
